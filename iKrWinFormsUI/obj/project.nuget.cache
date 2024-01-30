@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D630rmqWiBm5z/AYhX5jys/NXBSNxsyK6aeN14/LvFKlO7dUoEQuVIrbRFO8hIdFzyUS8aa2vUSq14Zev/lVYA==",
+  "success": true,
+  "projectFilePath": "D:\\iRISI_APP\\iLib\\iKrWinFormsUI\\iKrWinFormsUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IRIS User\\.nuget\\packages\\krypton.toolkit\\70.22.11.312\\krypton.toolkit.70.22.11.312.nupkg.sha512"
+  ],
+  "logs": []
+}
