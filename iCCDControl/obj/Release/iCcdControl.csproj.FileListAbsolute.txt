@@ -1,0 +1,8 @@
+D:\iRISI_APP\iLib\iCCDControl\bin\Release\BasicDemo_CS.pdb
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\iCcdControl.csproj.AssemblyReference.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\BasicDemo.Properties.Resources.resources
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\iCcdControl.csproj.GenerateResource.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\iCcdControl.csproj.CoreCompileInputs.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\BasicDemo_CS.pdb
+D:\iRISI_APP\iLib\iCCDControl\bin\Release\BasicDemo_CS.dll
+D:\iRISI_APP\iLib\iCCDControl\obj\Release\BasicDemo_CS.dll

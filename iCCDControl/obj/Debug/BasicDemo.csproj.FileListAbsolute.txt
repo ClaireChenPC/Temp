@@ -1,0 +1,15 @@
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\BasicDemo_CS.exe
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\BasicDemo_CS.pdb
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\en-US\BasicDemo_CS.resources.dll
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\bin\Debug\zh-CHS\BasicDemo_CS.resources.dll
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.csproj.AssemblyReference.cache
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.resources
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Properties.Resources.resources
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.en-US.resources
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.Form1.zh-CHS.resources
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.csproj.GenerateResource.cache
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo.csproj.CoreCompileInputs.cache
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\en-US\BasicDemo_CS.resources.dll
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\zh-CHS\BasicDemo_CS.resources.dll
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo_CS.exe
+D:\Program Files\MVS\Development\Samples\C#\MvCameraControlNet\BasicDemo\obj\Debug\BasicDemo_CS.pdb

@@ -1,0 +1,13 @@
+D:\iRISI_APP\iLib\iCCDControl\bin\REMOVEBUS\BasicDemo_CS.exe
+D:\iRISI_APP\iLib\iCCDControl\bin\REMOVEBUS\en-US\BasicDemo_CS.resources.dll
+D:\iRISI_APP\iLib\iCCDControl\bin\REMOVEBUS\zh-CHS\BasicDemo_CS.resources.dll
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\iCcdControl.csproj.AssemblyReference.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\BasicDemo.Form1.resources
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\BasicDemo.Properties.Resources.resources
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\BasicDemo.Form1.en-US.resources
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\BasicDemo.Form1.zh-CHS.resources
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\iCcdControl.csproj.GenerateResource.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\iCcdControl.csproj.CoreCompileInputs.cache
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\en-US\BasicDemo_CS.resources.dll
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\zh-CHS\BasicDemo_CS.resources.dll
+D:\iRISI_APP\iLib\iCCDControl\obj\REMOVEBUS\BasicDemo_CS.exe

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace(" ", ""))</RootNamespace>
+    <BaseOutputPath>..\Assemblies\AnyCPU\</BaseOutputPath>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Company>Iris Optronics Co., Ltd.</Company>
+    <Description>.NET 6</Description>
+    <Copyright>Copyright © 2023 Iris Optronics Co., Ltd. ALL RIGHTS RESERVED.</Copyright>
+    <PackageTags>Library,Motion,Automation</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Configurations>Debug;Release;REMOVEBUS</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="8.0.0" />
+    <PackageReference Include="System.Resources.Extensions" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
